@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(40, 100, 80);
+    color: aliceblue;
+    text-align: center;
+}
+
+#topic1
+{
+    
+    background-color: brown;
+}
+
+#comment1
+{
+    
+    background-color: brown;
+}
+
+#comment2
+{
+    
+    background-color: brown;
+}
+
+#text1
+{
+    
+    background-color: rgb(70, 235, 166);
+}

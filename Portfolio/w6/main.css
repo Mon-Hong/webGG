@@ -1,0 +1,14 @@
+body
+{
+    background-color: coral;
+    
+}
+#submit
+{
+    background-color:  rgb(219, 94, 94);
+    color: aliceblue;
+}
+#reset
+{
+    background-color:  rgb(219, 94, 94);
+}

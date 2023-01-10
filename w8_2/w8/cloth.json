@@ -1,0 +1,45 @@
+{
+	"top1":{
+		"brandname": "A.K.O.O Clothing",
+		"price":"200",
+		"pic":"top1.jpg"},
+
+	"top2":{
+		"brandname": "B.K.T Clothing",
+		"price":"500",
+		"pic":"top2.jpg"},
+	"top3":{
+		"brandname": "B.K.T Clothing",
+		"price":"1500",
+		"pic":"top3.jpg"},
+
+	"top4":{
+		"brandname": "B.K.T Clothing",
+		"price":"499",
+		"pic":"top4.jpg"},
+
+	"top5":{
+		"brandname": "A.K.O.O Clothing",
+		"price":"399",
+		"pic":"top5.jpg"},
+		
+	"top6":{
+		"brandname": "B.K.T Clothing",
+		"price":"599",
+		"pic":"top6.jpg"},
+		
+	"top7":{
+		"brandname": "B.K.T Clothing",
+		"price":"700",
+		"pic":"top7.jpg"},
+		
+	"top8":{
+		"brandname": "B.K.T Clothing",
+		"price":"900",
+		"pic":"top8.jpg"},
+
+	"top9":{
+		"brandname": "B.K.T Clothing",
+		"price":"400",
+		"pic":"top9.jpg"}
+}

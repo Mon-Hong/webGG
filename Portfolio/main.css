@@ -1,0 +1,202 @@
+@media only screen and (max-width: 1000px) {
+body{
+    background-image:url('bgme.jpeg');
+}
+}
+
+
+
+
+#A
+{
+    font-size: 150px;
+    font-family: 'Mali', cursive;
+    color:   #402218;
+    text-shadow: 0.1em 0.1em 0.2em   #865439;
+}
+
+
+#tem2A
+{
+    background-color: #402218;
+    color: bisque;
+    text-align: left;
+    font-family: 'Pridi', serif;
+    font-size: 70px;
+    text-shadow: 0.1em 0.1em 0.2em   #865439;
+}
+#tem2B
+{
+    
+    font-family: 'Pridi', serif;
+    font-size: 70px;
+    
+}
+#tem2C
+{
+    
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 150px;
+    text-shadow: 0.1em 0.1em 0.2em   #865439;
+}
+
+
+#meme
+{
+    height: 900px;
+    border-radius: 40px;
+}
+
+#tem4A
+{
+    
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 60px;
+    text-shadow: 0.1em 0.1em 0.2em   #865439;
+}
+
+
+
+#tem5A
+{
+    
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 40px;
+    background-color: #C68B59;
+   
+    
+}
+
+#tem5B
+{
+    
+    text-align: left;
+    font-family: 'Pridi', serif;
+    
+   
+}
+#tem5C
+{
+    
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 40px;
+    background-color: #C68B59;
+   
+    border-radius: 40px;
+}
+
+
+.A{
+    color: aliceblue;
+    grid-column: 1/5; 
+    background-color: #865439;
+    font-size: 30px;
+
+    margin: 10px;
+    
+    text-align: center;
+    padding: 30px 0;
+    border-radius: 40px;
+   
+    
+}
+
+div.flex_container 
+{
+  display: flex;  
+  flex-wrap: wrap;
+  width: 100%; 
+  
+}
+
+.item1 { grid-column: 1/5; }
+.item2 { grid-column: 1/4; }
+.item3 { grid-column: 4/5; }
+.item4 { grid-column: 1/5; }
+.item10 { grid-column: 1/5; }
+
+
+
+.itemProject{ grid-column: 1/5; }
+
+.item4A { grid-column: 1/4; }
+.item4B { grid-column: 4/5; }
+
+
+
+
+.grid-container {
+    display: grid;
+    grid-area: auto auto auto auto auto ;
+    margin: 10px;
+
+    background-color:  #402218;
+    padding : 20px;
+    border-radius: 20px;
+    
+  }
+  
+  .grid-container > div {
+    margin: 10px;
+    background-color: #b38e7a;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: 40px;
+    
+    
+  }
+
+  @media only screen and (max-width: 1000px) 
+  {
+    .item1 { grid-column: 1/2; }
+    .item2 { grid-column: 1/2; }
+    .item3 { grid-column: 1/2; }
+    .item4 { grid-column: 1/2; }
+    .item10 { grid-column: 1/2; }
+    
+    
+    
+    .itemProject{ grid-column: 1/2; }
+    
+    .item4A { grid-column: 1/2; }
+    .item4B { grid-column: 1/2; }
+
+
+  }
+  div.flex_container 
+{
+    text-align: center;
+  display: flex;  
+  flex-wrap: wrap;
+  width: 100%; 
+  
+}
+
+  #con
+  {
+    font-size: 50px;
+  }
+
+
+
+  #ABC
+  {
+   
+    text-align: center;
+   width: 30%;
+  }
+
+
+  #temA
+{
+    
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-size: 40px;
+ 
+}
